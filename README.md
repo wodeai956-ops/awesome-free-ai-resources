@@ -1,6 +1,6 @@
 # 免费资源清单 · Awesome Free AI & Cloud Resources
 
-免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **179 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
+免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **192 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
 
 Free servers, free GPU, free AI API credits, tools and eSIM plans — every entry verified against the official page, with quota, conditions and verified date.
 
@@ -11,10 +11,10 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 
 ## 目录
 
-- 免费 GPU 算力 Free GPU（17）
-- 免费服务器与 VPS Free Servers & VPS（59）
-- 免费 API 额度 Free API Credits（80）
-- eSIM 与境外号码 eSIM & Global Numbers（23）
+- 免费 GPU 算力 Free GPU（19）
+- 免费服务器与 VPS Free Servers & VPS（62）
+- 免费 API 额度 Free API Credits（86）
+- eSIM 与境外号码 eSIM & Global Numbers（25）
 
 > 本仓库由脚本从 [AI指南站](https://taofai.com) 的站内数据自动生成，每日同步，**不接受 PR**；发现错误请到站内条目页反馈，或邮件 zhi@muse.ai。每条的「核实日期」以站内详情页为准。
 
@@ -37,6 +37,8 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [并行科技](https://taofai.com/resources/paratera) — 免费试算：2000 核时或 200 元卡时（客户经理申请发放），卡时可用于智算云 GPU · 需实名
 - [矩池云](https://taofai.com/resources/matpool) — 新用户体验金（官方注册页确认可领，金额未公布，以到账为准） · AI 可全程代办
 - [AutoDL](https://taofai.com/resources/autodl) — 新用户注册立送 30 天会员（官方福利页口径）；代金券活动以官网为准 · AI 可全程代办
+- [Kaggle vs Colab 二选一](https://taofai.com/resources/kaggle-vs-colab) — Kaggle：每周 30 小时 GPU（T4×2）＋20 小时 TPU；Google Colab：免费 GPU 不保证… · 需邮箱验证码
+- [Kaggle vs 魔搭 二选一](https://taofai.com/resources/kaggle-vs-modelscope) — Kaggle：每周 30 小时 GPU（T4×2）＋20 小时 TPU；ModelScope 魔搭：A10 一次性 36 小时… · 需实名
 
 ## 免费服务器与 VPS
 
@@ -99,6 +101,9 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [腾讯云云+校园学生机](https://taofai.com/resources/tencent-campus) — 轻量服务器免费领（学生） · AI 可全程代办
 - [IONOS Cloud](https://taofai.com/resources/ionos) — 新用户 $200 起始试用额度，有效期 30 天 · 需绑卡
 - [StackBlitz](https://taofai.com/resources/stackblitz) — 免费 Personal 计划：无限公开项目与 GitHub 仓库（官方定价页口径） · AI 可全程代办
+- [免费数据库与存储合集](https://taofai.com/resources/free-database-storage) — 共 11 个：数据库与向量库 9 个、对象存储 2 个（含向量嵌入 API 1 个）；真正免费 10 个、免费试用 1 个… · 需绑卡
+- [AWS vs Azure 二选一](https://taofai.com/resources/aws-vs-azure) — AWS 免费档：新免费计划共 $200：先给 $100，完成探索任务再给 $100… · 需绑卡
+- [Netlify vs Vercel 二选一](https://taofai.com/resources/netlify-vs-vercel) — Netlify：Free 档 $0：每月 300 credits（带宽按 20 credits/GB 扣）… · AI 可全程代办
 
 ## 免费 API 额度
 
@@ -182,6 +187,12 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [OpenAI Codex 学生额度](https://taofai.com/resources/codex-student-credits) — $100 Codex 额度（2,500 credits） · 需邮箱验证码
 - [Granola 学生优惠](https://taofai.com/resources/granola-students) — Business 免费 12 个月 · AI 可全程代办
 - [Tavily 学生计划](https://taofai.com/resources/tavily-student) — Project Plan 免费 4 个月，每月 4,000 API credits · AI 可全程代办
+- [不绑卡免费资源大全](https://taofai.com/resources/no-card-free) — 共 127 个不绑卡资源：API 73 个、VPS 38 个、GPU 13 个、eSIM 3 个；其中真正免费 74 个… · 需实名
+- [长期免费档合集](https://taofai.com/resources/long-term-free) — 共 86 个长期免费档：API 40 个、VPS 29 个、GPU 10 个、eSIM 7 个 · 需绑卡
+- [学生可领合集](https://taofai.com/resources/student-free) — 共 19 个学生可领资源：API 14 个、VPS 5 个；真正免费 9 个、免费试用 10 个、需充值 0 个 · AI 可全程代办
+- [国内大模型 API 合集](https://taofai.com/resources/china-llm-api) — 共 14 家国内大模型 API：真正免费 3 个、免费试用 11 个、需充值 0 个 · 需实名
+- [DeepSeek vs 智谱 二选一](https://taofai.com/resources/deepseek-vs-zhipu) — DeepSeek 开放平台：赠送余额（多数新账号约 500 万 tokens，官方未承诺固定数额，以账单页为准）… · 需邮箱验证码
+- [Groq vs Cerebras 二选一](https://taofai.com/resources/groq-vs-cerebras) — Groq：免费档：按速率限制免费调推理模型（每分钟/每天请求与 token 上限因模型而异）… · 需绑卡
 
 ## eSIM 与境外号码
 
@@ -208,6 +219,8 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [2ndLine 免费美国号](https://taofai.com/resources/second-line) — 免费美国号码，美加通话短信免费 · 需邮箱验证码
 - [eSIM.me 写卡器](https://taofai.com/resources/esim-me) — 按版本 5 / 10 / 15 个 profile · 付费
 - [9eSIM 写卡器](https://taofai.com/resources/nine-esim) — 按版本 15 / 30 / 50 个 profile · 付费
+- [eSIM 流量卡合集](https://taofai.com/resources/esim-data-plans) — 共 12 个流量向方案：真正免费 2 个、免费试用 2 个、需充值 8 个；含免费试用流量、按量付费流量、年包流量与写卡器硬件 · AI 可全程代办
+- [Jetpac Eterna](https://taofai.com/resources/jetpac-eterna) — 终身免费 eSIM：每次合资格出境行程 100 MB 流量，一年最多 4 次，行程间隔 2 个月；流量用完后 WhatsApp… · 需绑卡
 
 ## 好价（限时优惠）
 
