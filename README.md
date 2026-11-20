@@ -82,7 +82,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Railway 免费试用](https://taofai.com/resources/railway) — $5 一次性试用额度，与 30 天先到先止（Limited Trial） · 需邮箱验证码
 - [Fly.io 试用额度](https://taofai.com/resources/flyio) — 新组织 $1 试用额度（7 天） · 需绑卡
 - [Oracle vs 华为云二选一](https://taofai.com/resources/oracle-vs-huaweicloud) — Oracle Always Free 长期免费、另有 $300 试用额度 30 天… · 需绑卡
-- [免费 VPS 怎么选](https://taofai.com/resources/free-vps-compare) — 长期免费：Oracle Always Free、另有 $300 试用额度 30 天；Cloady 出站 10GB/月… · 需绑卡
+- [免费 VPS 怎么选](https://taofai.com/resources/free-vps-compare) — 长期免费：Oracle Always Free；Cloady 出站 10GB/月；serv00 3GB SSD 不限流量… · 需绑卡
 - [Deno Deploy](https://taofai.com/resources/deno-deploy) — Free 档 $0：每月 100 万请求、20 GiB 出口流量、10 小时主动 CPU、KV 存储 1 GiB · AI 可全程代办
 - [DigitalOcean](https://taofai.com/resources/digitalocean) — 新用户 $200 赠金，覆盖全部基础设施服务（云服务器、GPU、托管数据库、Kubernetes 等） · 需绑卡
 - [Hetzner](https://taofai.com/resources/hetzner) — 新客 €50 起始赠金，适用于全部产品（云服务器、独服、存储等） · 需绑卡
@@ -187,7 +187,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [OpenAI Codex 学生额度](https://taofai.com/resources/codex-student-credits) — $100 Codex 额度（2,500 credits） · 需邮箱验证码
 - [Granola 学生优惠](https://taofai.com/resources/granola-students) — Business 免费 12 个月 · AI 可全程代办
 - [Tavily 学生计划](https://taofai.com/resources/tavily-student) — Project Plan 免费 4 个月，每月 4,000 API credits · AI 可全程代办
-- [不绑卡免费资源大全](https://taofai.com/resources/no-card-free) — 共 127 个不绑卡资源：API 73 个、VPS 38 个、GPU 13 个、eSIM 3 个；其中真正免费 74 个… · 需实名
+- [不绑卡免费资源大全](https://taofai.com/resources/no-card-free) — 共 126 个不绑卡资源：API 73 个、VPS 37 个、GPU 13 个、eSIM 3 个；其中真正免费 73 个… · 需实名
 - [长期免费档合集](https://taofai.com/resources/long-term-free) — 共 86 个长期免费档：API 40 个、VPS 29 个、GPU 10 个、eSIM 7 个 · 需绑卡
 - [学生可领合集](https://taofai.com/resources/student-free) — 共 19 个学生可领资源：API 14 个、VPS 5 个；真正免费 9 个、免费试用 10 个、需充值 0 个 · AI 可全程代办
 - [国内大模型 API 合集](https://taofai.com/resources/china-llm-api) — 共 14 家国内大模型 API：真正免费 3 个、免费试用 11 个、需充值 0 个 · 需实名
@@ -201,7 +201,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Ultra PayGo](https://taofai.com/resources/ultrapaygo) — $3/30 天（100 分钟＋100 短信＋100MB） · 付费
 - [Saily 美国号](https://taofai.com/resources/saily) — $6.99/年（优惠码 BAYASE，原价 $11.99），无限收短信 · 付费
 - [Keepgo 终身流量](https://taofai.com/resources/keepgo) — eSIM 免费，流量充值 $3 起、终身不过期；新用户另可免费领 100MB / 7 天试用线（须绑卡 $0 结账） · 需绑卡
-- [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天 · AI 可全程代办
+- [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天 · 付费
 - [Xesim X7 蓝牙写卡器](https://taofai.com/resources/xesimx7) — 约 30 个 profiles，一次激活一个 · 付费
 - [Firsty](https://taofai.com/resources/firsty) — 看广告得流量：每条广告 20 MB，每天上限 360 MB，余额上限 240 MB，最高速率 1 Mbps · AI 可全程代办
 - [Roamless](https://taofai.com/resources/roamless) — 按量付费，约 $1.95/GB 起（随国家浮动） · 付费
@@ -219,7 +219,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [2ndLine 免费美国号](https://taofai.com/resources/second-line) — 免费美国号码，美加通话短信免费 · 需邮箱验证码
 - [eSIM.me 写卡器](https://taofai.com/resources/esim-me) — 按版本 5 / 10 / 15 个 profile · 付费
 - [9eSIM 写卡器](https://taofai.com/resources/nine-esim) — 按版本 15 / 30 / 50 个 profile · 付费
-- [eSIM 流量卡合集](https://taofai.com/resources/esim-data-plans) — 共 12 个流量向方案：真正免费 2 个、免费试用 2 个、需充值 8 个；含免费试用流量、按量付费流量、年包流量与写卡器硬件 · AI 可全程代办
+- [eSIM 流量卡合集](https://taofai.com/resources/esim-data-plans) — 共 12 个流量向方案：真正免费 2 个、免费试用 2 个、需充值 8 个；含免费试用流量、按量付费流量、年包流量与写卡器硬件 · 付费
 - [Jetpac Eterna](https://taofai.com/resources/jetpac-eterna) — 终身免费 eSIM：每次合资格出境行程 100 MB 流量，一年最多 4 次，行程间隔 2 个月；流量用完后 WhatsApp… · 需绑卡
 
 ## 好价（限时优惠）
