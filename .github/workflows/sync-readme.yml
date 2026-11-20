@@ -1,0 +1,44 @@
+name: Sync README from taofai.com
+
+# 每日从站内公开数据端点 https://taofai.com/data.json 重新生成 README 并自动提交。
+# 公开仓 GitHub Actions 免费、无分钟上限。GITHUB_TOKEN 推送不会触发其他工作流（防递归）。
+on:
+  schedule:
+    - cron: '40 21 * * *' # UTC 21:40 = 北京 05:40，晚于站点日轮更新
+  workflow_dispatch: {}
+  push:
+    paths: # 工作流/脚本自身变更时自举跑一次（首次落地即触发首跑）
+      - '.github/workflows/sync-readme.yml'
+      - 'scripts/gen-readme.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-readme
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch live data.json
+        run: curl -fsSL https://taofai.com/data.json -o data.json
+      - name: Generate README
+        run: node scripts/gen-readme.mjs data.json README.md
+      - name: Commit if changed
+        run: |
+          rm -f data.json
+          if git diff --quiet -- README.md; then
+            echo "README already up to date, nothing to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: 每日同步 README（数据源 taofai.com/data.json）"
+            git push
+          fi
