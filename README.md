@@ -1,6 +1,6 @@
 # 免费资源清单 · Awesome Free AI & Cloud Resources
 
-免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **192 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
+免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **193 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
 
 Free servers, free GPU, free AI API credits, tools and eSIM plans — every entry verified against the official page, with quota, conditions and verified date.
 
@@ -12,7 +12,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 ## 目录
 
 - 免费 GPU 算力 Free GPU（19）
-- 免费服务器与 VPS Free Servers & VPS（62）
+- 免费服务器与 VPS Free Servers & VPS（63）
 - 免费 API 额度 Free API Credits（86）
 - eSIM 与境外号码 eSIM & Global Numbers（25）
 
@@ -104,6 +104,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [免费数据库与存储合集](https://taofai.com/resources/free-database-storage) — 共 11 个：数据库与向量库 9 个、对象存储 2 个（含向量嵌入 API 1 个）；真正免费 10 个、免费试用 1 个… · 需绑卡
 - [AWS vs Azure 二选一](https://taofai.com/resources/aws-vs-azure) — AWS 免费档：新免费计划共 $200：先给 $100，完成探索任务再给 $100… · 需绑卡
 - [Netlify vs Vercel 二选一](https://taofai.com/resources/netlify-vs-vercel) — Netlify：Free 档 $0：每月 300 credits（带宽按 20 credits/GB 扣）… · AI 可全程代办
+- [Altare](https://taofai.com/resources/altare) — 团队共享资源池 6 GiB 内存 / 150% CPU / 10 GiB 磁盘（最多开 4 台共享）… · 需邮箱验证码
 
 ## 免费 API 额度
 
