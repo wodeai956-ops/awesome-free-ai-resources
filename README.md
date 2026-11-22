@@ -1,20 +1,20 @@
 # 免费资源清单 · Awesome Free AI & Cloud Resources
 
-免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **230 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
+免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **231 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
 
 Free servers, free GPU, free AI API credits, tools and eSIM plans — every entry verified against the official page, with quota, conditions and verified date.
 
 - 完整版（可筛选、带申领步骤）：https://taofai.com/resources
 - 机器可读数据（给 AI 用）：https://taofai.com/data.json
 - 让 AI 直接帮你领：https://taofai.com/ai-prompts
-- 最近同步：2026-11-21
+- 最近同步：2026-11-22
 
 ## 目录
 
 - 免费 GPU 算力 Free GPU（20）
 - 免费服务器与 VPS Free Servers & VPS（73）
 - 免费 API 额度 Free API Credits（111）
-- eSIM 与境外号码 eSIM & Global Numbers（26）
+- eSIM 与境外号码 eSIM & Global Numbers（27）
 
 > 本仓库由脚本从 [AI指南站](https://taofai.com) 的站内数据自动生成，每日同步，**不接受 PR**；发现错误请到站内条目页反馈，或邮件 zhi@muse.ai。每条的「核实日期」以站内详情页为准。
 
@@ -80,7 +80,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Kamatera 免费试用](https://taofai.com/resources/kamatera) — 最高 $100 云服务：1 台服务器 + 1TB 块存储 + 1TB 流量（30 天） · 需绑卡
 - [UpCloud 免费试用](https://taofai.com/resources/upcloud) — 标准试用 7 天（上限 2 核 4G / 180GB）；活动期 30 天 + $500 额度 · 需绑卡
 - [Render 免费档](https://taofai.com/resources/render) — 免费 Web 服务 512MB / 0.1 CPU；每月 750 实例小时；PostgreSQL 1GB · AI 可全程代办
-- [Railway 免费试用](https://taofai.com/resources/railway) — $5 一次性试用额度，与 30 天先到先止（Limited Trial） · 需邮箱验证码
+- [Railway 免费试用](https://taofai.com/resources/railway) — $5 一次性试用额度，与 30 天先到先止（Limited Trial）；试用后转 Free 计划，每月 $1 资源额度 · 需邮箱验证码
 - [Fly.io 试用额度](https://taofai.com/resources/flyio) — 新组织 $1 试用额度（7 天） · 需绑卡
 - [Oracle vs 华为云二选一](https://taofai.com/resources/oracle-vs-huaweicloud) — Oracle Always Free 长期免费、另有 $300 试用额度 30 天… · 需绑卡
 - [免费 VPS 怎么选](https://taofai.com/resources/free-vps-compare) — 长期免费：Oracle Always Free；Cloady 出站 10GB/月；serv00 3GB SSD 不限流量… · 需绑卡
@@ -97,7 +97,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Sevalla](https://taofai.com/resources/sevalla) — 静态站点免费：每账期 100 GB 流量 + 600 分钟构建，上限 100 个站点、单站 1 GB · 需绑卡
 - [Vercel v0 for Students](https://taofai.com/resources/vercel-v0-students) — v0 免费使用 1 年（限 15 所伙伴学校） · 需邮箱验证码
 - [Amazon Kiro 学生计划](https://taofai.com/resources/kiro-students) — 每月 1,000 credits，免费 1 年 · AI 可全程代办
-- [Replit 学生价](https://taofai.com/resources/replit-student) — Core 免费（学生） · 需邮箱验证码
+- [Replit 学生价](https://taofai.com/resources/replit-student) — Core 学生价 $10/月（.edu 邮箱验证后五折，常规 $20/月） · 需邮箱验证码
 - [阿里云学生券（云工开物）](https://taofai.com/resources/aliyun-student-voucher) — 300 元上云券（云工开物） · AI 可全程代办
 - [腾讯云云+校园学生机](https://taofai.com/resources/tencent-campus) — 轻量服务器免费领（学生） · AI 可全程代办
 - [IONOS Cloud](https://taofai.com/resources/ionos) — 新用户 $200 起始试用额度，有效期 30 天 · 需绑卡
@@ -105,7 +105,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [免费数据库与存储合集](https://taofai.com/resources/free-database-storage) — 共 11 个：数据库与向量库 9 个、对象存储 2 个（含向量嵌入 API 1 个）；真正免费 10 个、免费试用 1 个… · 需绑卡
 - [AWS vs Azure 二选一](https://taofai.com/resources/aws-vs-azure) — AWS 免费档：新免费计划共 $200：先给 $100，完成探索任务再给 $100… · 需绑卡
 - [Netlify vs Vercel 二选一](https://taofai.com/resources/netlify-vs-vercel) — Netlify：Free 档 $0：每月 300 credits（带宽按 20 credits/GB 扣）… · AI 可全程代办
-- [Altare](https://taofai.com/resources/altare) — 团队共享资源池 6 GiB 内存 / 150% CPU / 10 GiB 磁盘（最多开 4 台共享）… · 需邮箱验证码
+- [Altare](https://taofai.com/resources/altare) — 团队共享资源池：老团队保留 6 GiB 内存 / 150% CPU / 10 GiB 磁盘（最多开 4 台共享）… · 需邮箱验证码
 - [Abasthan](https://taofai.com/resources/abasthan) — 首个应用 Free 计划 $0（永久免费档）；新账号另送 $3 欢迎余额试付费计划 · 需邮箱验证码
 - [E2B](https://taofai.com/resources/e2b) — Hobby 计划新用户一次性 $100 用量额度 · 需绑卡
 - [ADE Cloud](https://taofai.com/resources/ade-cloud) — 免费档每月 100 小时云电脑时长（Small 机型计 1 倍），12 GB 磁盘，电脑数量不限共享时长 · AI 可全程代办
@@ -132,7 +132,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Jina AI](https://taofai.com/resources/jina) — 免费 Key 初始 1,000 万词元（免费档「小试牛刀」），Key 无过期日期；Reader 无 Key 可用（20 RPM） · AI 可全程代办
 - [Cohere](https://taofai.com/resources/cohere) — Trial Key 免费调用（限速），仅评估用途、不可商用 · AI 可全程代办
 - [Mistral AI](https://taofai.com/resources/mistral) — Free mode 每月免费量只含 Vibe 与 Studio… · 需邮箱验证码
-- [NVIDIA NIM](https://taofai.com/resources/nvidia-nim) — 开发者计划成员免费调用 NIM API（限速制） · AI 可全程代办
+- [NVIDIA NIM](https://taofai.com/resources/nvidia-nim) — 开发者计划成员免费调用 NIM API（限速制，多数模型上限 40 次/分钟、无按 token 计费） · AI 可全程代办
 - [火山引擎方舟](https://taofai.com/resources/volc-ark) — 新用户每个模型 50 万 tokens 一次性免费额度 · 需实名
 - [Agnes AI](https://taofai.com/resources/agnes) — Flash 系列（文本/图像/视频）官方定价 $0；免费 Key 限速 20 RPM · AI 可全程代办
 - [AMD Token Lab（Token Factory）](https://taofai.com/resources/amd-token) — 每个 Key 10 点额度、30 天有效、限速 20 RPM，约 10 个开源模型 · AI 可全程代办
@@ -190,7 +190,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Google AI Pro 学生计划](https://taofai.com/resources/google-ai-pro-student) — AI Pro 免费 1 年（美国）；其他支持地区学生价最高 75% off · 需绑卡
 - [JetBrains 学生授权](https://taofai.com/resources/jetbrains-student) — 全线专业版 IDE 免费授权 · AI 可全程代办
 - [Notion Education](https://taofai.com/resources/notion-education) — Plus 免费（限 1 个工作区） · AI 可全程代办
-- [Perplexity Education Pro](https://taofai.com/resources/perplexity-education) — Pro 免费 1 个月 · AI 可全程代办
+- [Perplexity Education Pro](https://taofai.com/resources/perplexity-education) — Education Pro $10/月（Pro 常规价 $20/月） · AI 可全程代办
 - [Microsoft 365 学生价](https://taofai.com/resources/microsoft-365-student) — Microsoft 365 学生免费版 · 需绑卡
 - [Figma 教育版](https://taofai.com/resources/figma-education) — 专业版免费（3 个设计文件） · AI 可全程代办
 - [Canva 教育版](https://taofai.com/resources/canva-education) — 可画教育版免费（教师与 K-12 学生） · AI 可全程代办
@@ -239,6 +239,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Saily 美国号](https://taofai.com/resources/saily) — $6.99/年（优惠码 BAYASE，原价 $11.99），无限收短信 · 付费
 - [Keepgo 终身流量](https://taofai.com/resources/keepgo) — eSIM 免费，流量充值 $3 起、终身不过期；新用户另可免费领 100MB / 7 天试用线（须绑卡 $0 结账） · 需绑卡
 - [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天 · 付费
+- [NORMA connect 德国保号卡](https://taofai.com/resources/norma-connect) — 入门包黑五 2.99 欧（原价 9.95 欧），含 10 欧启动话费；Start 套餐 0 月租，德国境内通话/短信 9 欧分 · 需绑卡
 - [Xesim X7 蓝牙写卡器](https://taofai.com/resources/xesimx7) — 约 30 个 profiles，一次激活一个 · 付费
 - [Firsty](https://taofai.com/resources/firsty) — 看广告得流量：每条广告 20 MB，每天上限 360 MB，余额上限 240 MB，最高速率 1 Mbps · AI 可全程代办
 - [Roamless](https://taofai.com/resources/roamless) — 按量付费，约 $1.95/GB 起（随国家浮动） · 付费
