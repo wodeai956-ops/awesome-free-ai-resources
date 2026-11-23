@@ -1,20 +1,20 @@
 # 免费资源清单 · Awesome Free AI & Cloud Resources
 
-免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **231 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
+免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **247 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
 
 Free servers, free GPU, free AI API credits, tools and eSIM plans — every entry verified against the official page, with quota, conditions and verified date.
 
 - 完整版（可筛选、带申领步骤）：https://taofai.com/resources
 - 机器可读数据（给 AI 用）：https://taofai.com/data.json
 - 让 AI 直接帮你领：https://taofai.com/ai-prompts
-- 最近同步：2026-11-22
+- 最近同步：2026-11-23
 
 ## 目录
 
 - 免费 GPU 算力 Free GPU（20）
-- 免费服务器与 VPS Free Servers & VPS（73）
-- 免费 API 额度 Free API Credits（111）
-- eSIM 与境外号码 eSIM & Global Numbers（27）
+- 免费服务器与 VPS Free Servers & VPS（85）
+- 免费 API 额度 Free API Credits（112）
+- eSIM 与境外号码 eSIM & Global Numbers（30）
 
 > 本仓库由脚本从 [AI指南站](https://taofai.com) 的站内数据自动生成，每日同步，**不接受 PR**；发现错误请到站内条目页反馈，或邮件 zhi@muse.ai。每条的「核实日期」以站内详情页为准。
 
@@ -116,6 +116,18 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Oracle 免费向量数据库](https://taofai.com/resources/oracle-vector-db) — 每租户最多 2 个 Always Free 实例；每实例 20 GB 存储；每实例最多 30 个并发数据库会话… · AI 可全程代办
 - [Cloudzyro](https://taofai.com/resources/cloudzyro) — 每个站点：512 MB 内存、1 CPU、每月 100 GB 流量（超量降速至 2 Mbit/s、不断网不收费）… · 需邮箱验证码
 - [阿里云国际站 $200 新人额度](https://taofai.com/resources/alibabacloud-200) — $200 即时额度券 1 张（无最低消费，预付费与按量付费均可抵扣）；另含免费 AI Token 试用（Qwen / Wan… · 需短信验证码
+- [Quave](https://taofai.com/resources/quave) — Hobby 免费档 $0；单个环境可跑容器（本站实测环境为 0.5 CPU / 512 MB 内存、1 个容器） · 需邮箱验证码
+- [MeroDeploy](https://taofai.com/resources/merodeploy) — 账号共享 0.25 vCPU / 256 MB 内存 / 1 GB 存储；1 个服务；每月 50,000 次请求、30 次部署 · 需邮箱验证码
+- [Komuta](https://taofai.com/resources/komuta) — 免费池每月 450 小时（2026-12-01 起按月重置）；免费规格 0.1 vCPU / 256 MB… · 需邮箱验证码
+- [ZevCloud](https://taofai.com/resources/zevcloud) — 免费档 ₦0：512 MB 内存 / 1 CPU / 1 GB 存储 / 每月 10 GB 流量 · 需邮箱验证码
+- [Uppcoder](https://taofai.com/resources/uppcoder) — Spark 免费档 €0：1 个 stack（1 个应用＋1 个数据库），2 GB 内存 / 2 GB 磁盘… · 需邮箱验证码
+- [Waifly](https://taofai.com/resources/waifly) — 免费档 €0 永久：300 MB 内存 / 1 GB 存储 / CPU 上限 30%，1 台服务器＋1 个 MySQL 数据库 · 需邮箱验证码
+- [NeoHeberg](https://taofai.com/resources/neoheberg) — 0-Coin 免费 VPS：512 MB 内存、Debian 系统、仅 IPv6 · 需邮箱验证码
+- [orkestr](https://taofai.com/resources/orkestr) — Starter 档 €0：1 个项目与环境，Postgres 或 Redis 附加组件（二选一），自定义域名＋自动 SSL · AI 可全程代办
+- [Naijacloud](https://taofai.com/resources/naijacloud) — 免费档：1 个 Web 应用＋1 个数据库（每工作区），无限静态站，每月 1,000 封邮件，5 GB 存储… · 需绑卡
+- [Vexlo](https://taofai.com/resources/vexlo) — Starter 免费档 ₹0 / $0：512 MB 内存 / 0.5 vCPU，1 个应用，共享容器存储… · AI 可全程代办
+- [cWeb](https://taofai.com/resources/cweb) — Free 档 £0：10 个前端网站、1 个后端应用、每个受支持应用 2 GB 持久存储、每月 100 次部署… · 需邮箱验证码
+- [HiDNS](https://taofai.com/resources/hidns) — 每人限申请 1 个免费域名（多域名需求可发工单申请额外配额） · AI 可全程代办
 
 ## 免费 API 额度
 
@@ -230,6 +242,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Boson AI](https://taofai.com/resources/boson-ai) — 新账户 $10 free trial credit（官方文档口径）；Higgs TTS 3 $0.015/1K 字符… · 需绑卡
 - [移动云 MoMA](https://taofai.com/resources/mobile-cloud-moma) — 每位用户 2500 万 Token 免费额度（同一身份下所有账户合计限领一次）；限流 3000 Token/分钟 · 需绑卡
 - [Swarms Cloud](https://taofai.com/resources/swarms-cloud) — 新账户 $15 starting credits（黑五活动加码；日常口径为新账户 $5 免费额度） · 需绑卡
+- [Claude Team 科学家计划](https://taofai.com/resources/claude-scientists) — Standard 席位 $0/月、Premium 席位 $15/月（优惠 12 个月）；每组 1–25 席 · 需绑卡
 
 ## eSIM 与境外号码
 
@@ -241,6 +254,9 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天 · 付费
 - [NORMA connect 德国保号卡](https://taofai.com/resources/norma-connect) — 入门包黑五 2.99 欧（原价 9.95 欧），含 10 欧启动话费；Start 套餐 0 月租，德国境内通话/短信 9 欧分 · 需绑卡
 - [Xesim X7 蓝牙写卡器](https://taofai.com/resources/xesimx7) — 约 30 个 profiles，一次激活一个 · 付费
+- [VOXI 英国保号卡](https://taofai.com/resources/voxi) — SIM-only 30 天滚动套餐 £10 起（英国本地无限通话短信＋流量档位，£10–£35 多档）；退出套餐后转按量付费… · 需绑卡
+- [esim.gg 爱沙尼亚保号卡（乌龟卡）](https://taofai.com/resources/esim-gg) — 号码 €2.99 一次性，开通时预充少量余额（约 €1 起）；全球接收短信免费；中国流量 €4.7/GB… · 付费
+- [易博通 eSender 香港号](https://taofai.com/resources/esender) — 香港虚拟号 30 天 HK$18 / 90 天 HK$38 / 360 天 HK$98；接收短信免费… · 需绑卡
 - [Firsty](https://taofai.com/resources/firsty) — 看广告得流量：每条广告 20 MB，每天上限 360 MB，余额上限 240 MB，最高速率 1 Mbps · AI 可全程代办
 - [Roamless](https://taofai.com/resources/roamless) — 按量付费，约 $1.95/GB 起（随国家浮动） · 付费
 - [Eskimo](https://taofai.com/resources/eskimo) — 注册填码得 500 MB 全球流量（全球包覆盖 111 个国家和地区） · AI 可全程代办
