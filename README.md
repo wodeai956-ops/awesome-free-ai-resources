@@ -1,19 +1,19 @@
 # 免费资源清单 · Awesome Free AI & Cloud Resources
 
-免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **296 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
+免费服务器、免费 GPU、免费 AI API、免费工具与 eSIM 号卡——共 **300 条**，每条都经人工对照官方页面核实，标注额度、领取条件与核实日期。
 
 Free servers, free GPU, free AI API credits, tools and eSIM plans — every entry verified against the official page, with quota, conditions and verified date.
 
 - 完整版（可筛选、带申领步骤）：https://taofai.com/resources
 - 机器可读数据（给 AI 用）：https://taofai.com/data.json
 - 让 AI 直接帮你领：https://taofai.com/ai-prompts
-- 最近同步：2026-11-27
+- 最近同步：2026-11-28
 
 ## 目录
 
 - 免费 GPU 算力 Free GPU（19）
-- 免费服务器与 VPS Free Servers & VPS（101）
-- 免费 API 额度 Free API Credits（144）
+- 免费服务器与 VPS Free Servers & VPS（103）
+- 免费 API 额度 Free API Credits（146）
 - 免费 AI 工具 Free AI Tools（2）
 - eSIM 与境外号码 eSIM & Global Numbers（30）
 
@@ -21,11 +21,11 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 
 ## 免费 GPU 算力
 
-- [Kaggle](https://taofai.com/resources/kaggle) — 每周 30 小时 GPU（T4×2）＋20 小时 TPU · 需短信验证码
+- [Kaggle](https://taofai.com/resources/kaggle) — 每周 30 小时 GPU（T4×2）＋20 小时 TPU · 需实名
 - [ModelScope 魔搭](https://taofai.com/resources/modelscope) — A10 一次性 36 小时；CPU 8 核 32G 长期免费… · 需实名
 - [Lightning AI](https://taofai.com/resources/lightning) — 约 50 GPU 小时一次性 · 需邮箱验证码
-- [Google Colab](https://taofai.com/resources/colab) — 免费 GPU 不保证，忙时只给 CPU；实测可连 T4 · AI 可全程代办
-- [免费 GPU 怎么选](https://taofai.com/resources/free-gpu-compare) — Kaggle 每周 30 小时 T4×2＋20 小时 TPU；魔搭 A10 一次性 36 小时＋CPU 长期免费… · 需绑卡
+- [Google Colab](https://taofai.com/resources/colab) — 免费 GPU 不保证，忙时只给 CPU；实测可连 T4
+- [免费 GPU 怎么选](https://taofai.com/resources/free-gpu-compare) — Kaggle 每周 30 小时 T4×2＋20 小时 TPU；魔搭 A10 一次性 36 小时＋CPU 长期免费…
 - [Hugging Face ZeroGPU](https://taofai.com/resources/hf-zerogpu) — 免费账号每天 5 分钟 GPU 时间；RTX Pro 6000 Blackwell（large 半卡 48GB… · 需邮箱验证码
 - [Modal](https://taofai.com/resources/modal) — Starter 计划 $0，每月 $30 免费额度 · AI 可全程代办
 - [Paperspace Gradient](https://taofai.com/resources/paperspace) — Free 档 $0：公开项目、5GB 存储，含免费 GPU/基础实例 · AI 可全程代办
@@ -53,13 +53,13 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Novita AI](https://taofai.com/resources/novita) — 新用户完成 setup 问卷得 $100 Sandbox 促销额度（仅抵 Sandbox 的 CPU/RAM） · 需邮箱验证码
 - [alwaysdata](https://taofai.com/resources/alwaysdata) — 免费档 0 €，终身免费（1 GB SSD / 256 MB 内存） · 需邮箱验证码
 - [Vercel Hobby](https://taofai.com/resources/vercel) — Hobby 免费：每月 100 GB 流量、100 万次函数调用等 · AI 可全程代办
-- [Netlify](https://taofai.com/resources/netlify) — Free 档 $0：每月 300 credits（带宽按 20 credits/GB 扣） · AI 可全程代办
+- [Netlify](https://taofai.com/resources/netlify) — Free 档 $0：每月 300 credits（带宽按 20 credits/GB 扣）
 - [GitHub Pages](https://taofai.com/resources/gh-pages) — GitHub Free 账号可对公开仓库免费使用 Pages（官方文档）；本站实测开启后站点正常上线 · AI 可全程代办
 - [Cloudflare Pages](https://taofai.com/resources/cf-pages) — 免费档：每月 500 次构建、静态请求不限量、每账号 100 个项目 · 需邮箱验证码
 - [Cloudflare R2](https://taofai.com/resources/cf-r2) — 每月 10 GB 存储＋100 万次 A 类操作＋1,000 万次 B 类操作免费，出站流量免费 · 需绑卡
 - [Cloudflare D1](https://taofai.com/resources/cf-d1) — Workers 免费档：每天读 500 万行、写 10 万行，总存储 5 GB，最多 10 个数据库 · 需邮箱验证码
 - [Supabase](https://taofai.com/resources/supabase) — 免费档：2 个项目，每项目 500 MB 数据库、1 GB 文件存储、5 万月活、5 GB 流量 · 需绑卡
-- [Neon](https://taofai.com/resources/neon) — 免费档：100 个项目，每项目 10 个分支；计算 0.25↔2 CU 自动伸缩 · AI 可全程代办
+- [Neon](https://taofai.com/resources/neon) — 免费档：100 个项目，每项目 10 个分支；计算 0.25↔2 CU 自动伸缩
 - [MongoDB Atlas M0](https://taofai.com/resources/mongodb-atlas) — M0 集群 512 MB 存储，Free forever（永久免费） · AI 可全程代办
 - [Firebase Spark](https://taofai.com/resources/firebase) — Spark 免费档：Firestore 1 GiB 存储＋每日 5 万次读… · AI 可全程代办
 - [腾讯云免费体验馆](https://taofai.com/resources/tencent-freehub) — 60+ 产品 0 元试用，含轻量应用服务器免费体验 · 需实名
@@ -82,23 +82,23 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Render 免费档](https://taofai.com/resources/render) — 免费 Web 服务 512MB / 0.1 CPU；每月 750 实例小时；PostgreSQL 1GB · AI 可全程代办
 - [Railway 免费试用](https://taofai.com/resources/railway) — $5 一次性试用额度，与 30 天先到先止（Limited Trial）；试用后转 Free 计划，每月 $1 资源额度 · 需邮箱验证码
 - [Fly.io 试用额度](https://taofai.com/resources/flyio) — 新组织 $1 试用额度（7 天） · 需绑卡
-- [免费 VPS 怎么选](https://taofai.com/resources/free-vps-compare) — 长期免费：Oracle Always Free；Cloady 出站 10GB/月；serv00 3GB SSD 不限流量… · 需绑卡
+- [免费 VPS 怎么选](https://taofai.com/resources/free-vps-compare) — 长期免费：Oracle Always Free；Cloady 出站 10GB/月；serv00 3GB SSD 不限流量…
 - [Deno Deploy](https://taofai.com/resources/deno-deploy) — Free 档 $0：每月 100 万请求、20 GiB 出口流量、10 小时主动 CPU、KV 存储 1 GiB · AI 可全程代办
 - [DigitalOcean](https://taofai.com/resources/digitalocean) — 新用户 $200 赠金，覆盖全部基础设施服务（云服务器、GPU、托管数据库、Kubernetes 等） · 需绑卡
 - [Hetzner](https://taofai.com/resources/hetzner) — 新客 €50 起始赠金，适用于全部产品（云服务器、独服、存储等） · 需绑卡
 - [OVHcloud](https://taofai.com/resources/ovhcloud) — 欧洲站 €200（1 个月）；美站 $200（90 天），用于 Public Cloud 资源 · 需绑卡
-- [Northflank](https://taofai.com/resources/northflank) — Sandbox 免费档：每月最高 $20 平台资源，含 2 个服务 + 2 个任务 + 1 个数据库… · AI 可全程代办
+- [Northflank](https://taofai.com/resources/northflank) — Sandbox 免费档：每月最高 $20 平台资源，含 2 个服务 + 2 个任务 + 1 个数据库… · 需绑卡
 - [Wasmer](https://taofai.com/resources/wasmer) — Hobby 档 $0：100 个应用、每月 500 次部署、100 万次请求、150 GB 流量、6 小时主动 CPU… · AI 可全程代办
 - [EdgeOne Pages（腾讯云）](https://taofai.com/resources/edgeone-pages) — 长期免费版：上限 40 个项目、每月 50 万内置模型 Token；构建与函数额度以官方配额文档现行值为准 · 需实名
 - [SAP BTP](https://taofai.com/resources/sap-btp) — 免费层：90 多项服务 free tier、无时间限制、超额才付费；试用账号：90 天全功能体验 · 需绑卡
 - [青云 QingStor](https://taofai.com/resources/qingcloud-qingstor) — 首个存储空间：12 个月内 30 GB 存储（其中 10 GB 永久免费）+ 11 GB 下载流量 + 100 万次读请求 +… · 需实名
 - [PaizaCloud](https://taofai.com/resources/paizacloud) — FREE 档：1 台服务器，2 核 / 2 GB 内存 / 1 GB 磁盘 · AI 可全程代办
 - [Sevalla](https://taofai.com/resources/sevalla) — 静态站点免费：每账期 100 GB 流量 + 600 分钟构建，上限 100 个站点、单站 1 GB · 需绑卡
-- [Vercel v0 for Students](https://taofai.com/resources/vercel-v0-students) — v0 免费使用 1 年（限 15 所伙伴学校） · 需邮箱验证码
-- [Amazon Kiro 学生计划](https://taofai.com/resources/kiro-students) — 每月 1,000 credits，免费 1 年 · AI 可全程代办
-- [Replit 学生价](https://taofai.com/resources/replit-student) — Core 学生价 $10/月（.edu 邮箱验证后五折，常规 $20/月） · 需邮箱验证码
-- [阿里云学生券（云工开物）](https://taofai.com/resources/aliyun-student-voucher) — 300 元上云券（云工开物） · AI 可全程代办
-- [腾讯云云+校园学生机](https://taofai.com/resources/tencent-campus) — 轻量服务器免费领（学生） · AI 可全程代办
+- [Vercel v0 for Students](https://taofai.com/resources/vercel-v0-students) — v0 免费使用 1 年（限 15 所伙伴学校）
+- [Amazon Kiro 学生计划](https://taofai.com/resources/kiro-students) — 每月 1,000 credits，免费 1 年
+- [Replit 学生价](https://taofai.com/resources/replit-student) — Core 学生价 $10/月（.edu 邮箱验证后五折，常规 $20/月）
+- [阿里云学生券（云工开物）](https://taofai.com/resources/aliyun-student-voucher) — 300 元上云券（云工开物）
+- [腾讯云云+校园学生机](https://taofai.com/resources/tencent-campus) — 轻量服务器免费领（学生）
 - [IONOS Cloud](https://taofai.com/resources/ionos) — 新用户 $200 起始试用额度，有效期 30 天 · 需绑卡
 - [StackBlitz](https://taofai.com/resources/stackblitz) — 免费 Personal 计划：无限公开项目与 GitHub 仓库（官方定价页口径） · AI 可全程代办
 - [Altare](https://taofai.com/resources/altare) — 团队共享资源池：老团队保留 6 GiB 内存 / 150% CPU / 10 GiB 磁盘（最多开 4 台共享）… · 需邮箱验证码
@@ -109,7 +109,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [GNAME .eu.cc 免费域名](https://taofai.com/resources/gname-eucc) — 普通注册用户 3 个 .eu.cc 免费注册名额（全额抵扣券），注册与续费均为 $0 · AI 可全程代办
 - [Macaly](https://taofai.com/resources/macaly) — 每月 1,000,000 credits（不滚存）；1 个发布项目；网站流量 1 GB/月；文件存储 1 GB… · 需邮箱验证码
 - [中国电信 TeleAgent](https://taofai.com/resources/teleagent) — 专属 Windows 云电脑 1 台（体验期内全功能免费）；新注册赠 3000 积分（3 个月有效）… · 需绑卡
-- [Oracle 免费向量数据库](https://taofai.com/resources/oracle-vector-db) — 每租户最多 2 个 Always Free 实例；每实例 20 GB 存储；每实例最多 30 个并发数据库会话… · AI 可全程代办
+- [Oracle 免费向量数据库](https://taofai.com/resources/oracle-vector-db) — 每租户最多 2 个 Always Free 实例；每实例 20 GB 存储；每实例最多 30 个并发数据库会话… · 需绑卡
 - [Cloudzyro](https://taofai.com/resources/cloudzyro) — 每个站点：512 MB 内存、1 CPU、每月 100 GB 流量（超量降速至 2 Mbit/s、不断网不收费）… · 需邮箱验证码
 - [阿里云国际站 $200 新人额度](https://taofai.com/resources/alibabacloud-200) — $200 即时额度券 1 张（无最低消费，预付费与按量付费均可抵扣）；另含免费 AI Token 试用（Qwen / Wan… · 需短信验证码
 - [Quave](https://taofai.com/resources/quave) — Hobby 免费档 $0；单个环境可跑容器（本站实测环境为 0.5 CPU / 512 MB 内存、1 个容器） · 需邮箱验证码
@@ -124,7 +124,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Naijacloud](https://taofai.com/resources/naijacloud) — 免费档：1 个 Web 应用＋1 个数据库（每工作区），无限静态站，每月 1,000 封邮件，5 GB 存储… · 需绑卡
 - [Vexlo](https://taofai.com/resources/vexlo) — Starter 免费档 ₹0 / $0：512 MB 内存 / 0.5 vCPU，1 个应用，共享容器存储… · AI 可全程代办
 - [cWeb](https://taofai.com/resources/cweb) — Free 档 £0：10 个前端网站、1 个后端应用、每个受支持应用 2 GB 持久存储、每月 100 次部署… · 需邮箱验证码
-- [HiDNS](https://taofai.com/resources/hidns) — 每人限申请 1 个免费域名（多域名需求可发工单申请额外配额） · AI 可全程代办
+- [HiDNS](https://taofai.com/resources/hidns) — 每人限申请 1 个免费域名（多域名需求可发工单申请额外配额）
 - [Hoody](https://taofai.com/resources/hoody) — 免费档最多 3 台电脑，共享 2 核 CPU / 3 GB 内存 / 20 GB 存储、10 Mbps 网络 · 需邮箱验证码
 - [GoogieHost](https://taofai.com/resources/googiehost) — 免费档 1 GB NVMe 存储、1 个网站、不限量带宽（官网口径）、1 个 MySQL 数据库 · AI 可全程代办
 - [IPv64.net](https://taofai.com/resources/ipv64) — 免费账户可注册 DynDNS 域名（数量与每日更新、API 调用有免费档限额，见官网 Account & limits） · 需邮箱验证码
@@ -144,31 +144,33 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Beacon.host](https://taofai.com/resources/beacon-host) — 免费账户：站点不限数量、永不过期；全部站点共 10GB 存储（单站 10GB/10000 个文件、单文件最大 5GB）… · AI 可全程代办
 - [L53](https://taofai.com/resources/l53) — 新用户优惠码 newuser：首年注册免费（适用域名以官网查询结果为准）；续费 0.99–2.99 美元/年… · AI 可全程代办
 - [SingleStore](https://taofai.com/resources/singlestore) — Helios Shared 版：1 个免费集群（全 SQL 与可编程功能、监控、自助支持）… · AI 可全程代办
+- [Sandscale](https://taofai.com/resources/sandscale) — Free 层 $0/月：每月 100 唤醒 vCPU·小时、同时最多 3 台、5 GB 存储、1 个 workspace… · 需绑卡
+- [LiveTerminal](https://taofai.com/resources/liveterminal) — Lite 套餐 12 个月 $0：账户合计 4 vCPU（AMD Ryzen 9 7950X3D… · AI 可全程代办
 
 ## 免费 API 额度
 
-- [免费 API 怎么选](https://taofai.com/resources/free-api-compare) — 智谱 GLM-4.7-Flash 输入输出免费；魔搭每天 250 魔粒；硅基流动新用户 2000 万 Tokens… · AI 可全程代办
+- [免费 API 怎么选](https://taofai.com/resources/free-api-compare) — 智谱 GLM-4.7-Flash 输入输出免费；魔搭每天 250 魔粒；硅基流动新用户 2000 万 Tokens…
 - [智谱 GLM](https://taofai.com/resources/zhipu) — 新用户资源包：GLM-5.3-Flash 1500 万 tokens＋FlashX 300 万（至 2026-12-15）… · 需短信验证码
-- [Google AI Studio](https://taofai.com/resources/google-ai-studio) — 免费档：部分模型输入输出免费，有速率限制（按项目计） · AI 可全程代办
+- [Google AI Studio](https://taofai.com/resources/google-ai-studio) — 免费档：部分模型输入输出免费，有速率限制（按项目计）
 - [Groq](https://taofai.com/resources/groq) — 免费档：按速率限制免费调推理模型（每分钟/每天请求与 token 上限因模型而异） · 需邮箱验证码
 - [OpenRouter](https://taofai.com/resources/openrouter) — :free 模型输入输出 $0；未充值账号 20 次/分钟、50 次/天（累计充值满 $10 后升到 1000 次/天） · 需邮箱验证码
-- [硅基流动](https://taofai.com/resources/siliconflow) — 新用户注册送 2000 万 Tokens 免费额度 · AI 可全程代办
+- [硅基流动](https://taofai.com/resources/siliconflow) — 新用户注册送 2000 万 Tokens 免费额度 · 需短信验证码
 - [阿里云百炼](https://taofai.com/resources/aliyun-bailian) — 每个模型 100 万 Token 免费额度 · 需实名
 - [Deepgram](https://taofai.com/resources/deepgram) — 新用户 $200 额度，约合 700+ 小时 Nova-3 转写 · AI 可全程代办
 - [Exa](https://taofai.com/resources/exa) — 每月 $10 免费额度 · AI 可全程代办
-- [Firecrawl](https://taofai.com/resources/firecrawl) — 每月 1,000 credits 免费 · 需邮箱验证码
+- [Firecrawl](https://taofai.com/resources/firecrawl) — 每月 1,000 credits 起（新号实测到账 1,025） · 需邮箱验证码
 - [Jina AI](https://taofai.com/resources/jina) — 免费 Key 初始 1,000 万词元（免费档「小试牛刀」），Key 无过期日期；Reader 无 Key 可用（20 RPM） · AI 可全程代办
-- [Cohere](https://taofai.com/resources/cohere) — Trial Key 免费调用（限速），仅评估用途、不可商用 · AI 可全程代办
+- [Cohere](https://taofai.com/resources/cohere) — Trial Key 免费调用（限速），仅评估用途、不可商用
 - [Mistral AI](https://taofai.com/resources/mistral) — Free mode 每月免费量只含 Vibe 与 Studio… · 需邮箱验证码
 - [NVIDIA NIM](https://taofai.com/resources/nvidia-nim) — 开发者计划成员免费调用 NIM API（限速制，多数模型上限 40 次/分钟、无按 token 计费） · AI 可全程代办
 - [火山引擎方舟](https://taofai.com/resources/volc-ark) — 新用户每个模型 50 万 tokens 一次性免费额度 · 需实名
 - [Agnes AI](https://taofai.com/resources/agnes) — Flash 系列（文本/图像/视频）官方定价 $0；免费 Key 限速 20 RPM · AI 可全程代办
 - [AMD Token Lab（Token Factory）](https://taofai.com/resources/amd-token) — 每个 Key 10 点额度、30 天有效、限速 20 RPM，约 10 个开源模型 · AI 可全程代办
 - [讯飞星火](https://taofai.com/resources/xfyun-spark) — Spark Lite 永久免费（总量不限、QPS 2）… · 需实名
-- [Pollinations](https://taofai.com/resources/pollinations) — 初始余额 $0；免费额度靠任务（Quests）发放，全部任务总计约 3 Pollen（创建第一个 API 密钥奖励 $0.25） · AI 可全程代办
+- [Pollinations](https://taofai.com/resources/pollinations) — 初始余额 $0；免费额度靠任务（Quests）发放，全部任务总计约 3 Pollen（创建第一个 API 密钥奖励 $0.25）
 - [SambaNova Cloud](https://taofai.com/resources/sambanova) — 免费层：每模型每天 20 次 / 20 万 token；另有注册 $5 额度（30 天） · 需绑卡
 - [超算互联网](https://taofai.com/resources/scnet) — 新客免费 1000 万 Token 量包（GLM-5.3-Flash，1024K 上下文），注册即享、实时到账 · 需实名
-- [Devin](https://taofai.com/resources/devin) — Free 计划 $0，含轻量 agent 编程额度（Light quota），可用模型受限 · AI 可全程代办
+- [Devin](https://taofai.com/resources/devin) — Free 计划 $0，含轻量 agent 编程额度（Light quota），可用模型受限
 - [Cerebras](https://taofai.com/resources/cerebras) — 一次性 $5 试用金（绑卡后发放）；试用限速 gpt-oss-120b 5 RPM、每日 100 万 tokens · 需绑卡
 - [K-EXAONE 2.5（EXAONE API）](https://taofai.com/resources/k-exaone) — K-EXAONE 2.5 API 免费开放（限速官方未公布）；512K tokens 上下文，OpenAI 兼容接口 · 需绑卡
 - [Amazon Bedrock AgentCore 网络搜索](https://taofai.com/resources/bedrock-agentcore-search) — 每月前 5,000 次网络搜索免费（组织内全部账号共享）；超出按 $7/1,000 次计费 · 需绑卡
@@ -180,7 +182,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Anthropic API（Claude）](https://taofai.com/resources/anthropic-api) — 新账户小额免费额度（官方 FAQ 口径，金额未公布；第三方普遍记约 $5，以账号实际到账为准） · AI 可全程代办
 - [月之暗面 Kimi 开放平台](https://taofai.com/resources/kimi-platform) — 实名认证后 15 元代金券 · 需实名
 - [MiniMax 开放平台](https://taofai.com/resources/minimax-platform) — 新注册 + 认证账号体验额度（官方未公布固定数额，以控制台到账为准） · AI 可全程代办
-- [商汤日日新 SenseNova](https://taofai.com/resources/sensenova) — Token Plan Free 档 0 元/月：通用积分滚动 5 小时上限 12 万、周上限 120 万… · AI 可全程代办
+- [商汤日日新 SenseNova](https://taofai.com/resources/sensenova) — Token Plan Free 档 0 元/月：通用积分滚动 5 小时上限 12 万、周上限 120 万… · 需短信验证码
 - [腾讯混元 TokenHub](https://taofai.com/resources/hunyuan-tokenhub) — 每个语言模型各 100 万 tokens、每个多模态理解模型各 100 万 tokens（新人体验包） · 需实名
 - [网易有道智云](https://taofai.com/resources/youdao-zhiyun) — 体验金共 50 元（注册 10 元 + 实名认证 40 元） · 需实名
 - [DeepSeek 开放平台](https://taofai.com/resources/deepseek-api) — 赠送余额（多数新账号约 500 万 tokens，官方未承诺固定数额，以账单页为准） · AI 可全程代办
@@ -212,20 +214,20 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Resend](https://taofai.com/resources/resend) — Free 档：每月 3,000 封邮件（每日上限 100 封）、3 个域名 · AI 可全程代办
 - [LangSmith](https://taofai.com/resources/langsmith) — Developer 档：1 seat、每月 5,000 条 base traces（保留 14 天） · 需绑卡
 - [Weights & Biases](https://taofai.com/resources/wandb) — Free 档：实验跟踪个人免费；Weave 每月 1 GB trace 摄入 + 5 GB 存储 · AI 可全程代办
-- [GitHub Copilot 学生版](https://taofai.com/resources/github-copilot-student) — Copilot Pro 免费（学生） · AI 可全程代办
-- [GitHub 学生开发者包](https://taofai.com/resources/github-student-pack) — 100 多家合作方学生福利包 · AI 可全程代办
+- [GitHub Copilot 学生版](https://taofai.com/resources/github-copilot-student) — Copilot Pro 免费（学生）
+- [GitHub 学生开发者包](https://taofai.com/resources/github-student-pack) — 100 多家合作方学生福利包
 - [Google AI Pro 学生计划](https://taofai.com/resources/google-ai-pro-student) — AI Pro 免费 1 年（美国）；其他支持地区学生价最高 75% off · 需绑卡
-- [JetBrains 学生授权](https://taofai.com/resources/jetbrains-student) — 全线专业版 IDE 免费授权 · AI 可全程代办
-- [Notion Education](https://taofai.com/resources/notion-education) — Plus 免费（限 1 个工作区） · AI 可全程代办
-- [Perplexity Education Pro](https://taofai.com/resources/perplexity-education) — Education Pro $10/月（Pro 常规价 $20/月） · AI 可全程代办
+- [JetBrains 学生授权](https://taofai.com/resources/jetbrains-student) — 全线专业版 IDE 免费授权
+- [Notion Education](https://taofai.com/resources/notion-education) — Plus 免费（限 1 个工作区）
+- [Perplexity Education Pro](https://taofai.com/resources/perplexity-education) — Education Pro $10/月（Pro 常规价 $20/月）
 - [Microsoft 365 学生价](https://taofai.com/resources/microsoft-365-student) — Microsoft 365 学生免费版 · 需绑卡
-- [Figma 教育版](https://taofai.com/resources/figma-education) — 专业版免费（3 个设计文件） · AI 可全程代办
-- [Canva 教育版](https://taofai.com/resources/canva-education) — 可画教育版免费（教师与 K-12 学生） · AI 可全程代办
-- [Hex 教育版](https://taofai.com/resources/hex-education) — Professional Plan 免费 · AI 可全程代办
+- [Figma 教育版](https://taofai.com/resources/figma-education) — 专业版免费（3 个设计文件）
+- [Canva 教育版](https://taofai.com/resources/canva-education) — 可画教育版免费（教师与 K-12 学生）
+- [Hex 教育版](https://taofai.com/resources/hex-education) — Professional Plan 免费
 - [Zed Pro 学生计划](https://taofai.com/resources/zed-pro-student) — 每月 $10 AI 额度 · AI 可全程代办
-- [OpenAI Codex 学生额度](https://taofai.com/resources/codex-student-credits) — $100 Codex 额度（2,500 credits） · 需邮箱验证码
-- [Granola 学生优惠](https://taofai.com/resources/granola-students) — Business 免费 12 个月 · AI 可全程代办
-- [Tavily 学生计划](https://taofai.com/resources/tavily-student) — Project Plan 免费 4 个月，每月 4,000 API credits · AI 可全程代办
+- [OpenAI Codex 学生额度](https://taofai.com/resources/codex-student-credits) — $100 Codex 额度（2,500 credits）
+- [Granola 学生优惠](https://taofai.com/resources/granola-students) — Business 免费 12 个月
+- [Tavily 学生计划](https://taofai.com/resources/tavily-student) — Project Plan 免费 4 个月，每月 4,000 API credits
 - [七牛云 Conatus](https://taofai.com/resources/qiniu-conatus) — 实名认证账号每日 1 亿 Token（输入+输出合计，缓存输入也计入），账号下所有 API Key 共享… · 需实名
 - [AMD Radeon Cloud Token Factory](https://taofai.com/resources/amd-token-factory) — 每日用量按点数（pts）封顶，北京时间 00:00 重置；每把 API Key 有每分钟请求数与并发限制… · 需绑卡
 - [packet.ai Token Factory](https://taofai.com/resources/packet-token-factory) — 免费期内全部模型输入/输出 token $0（官方页未公布日/月用量上限） · 需短信验证码
@@ -242,9 +244,9 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Clean APIs](https://taofai.com/resources/clean-apis) — 免费档每月 0.5M（50 万）Token；全部 33 个模型可用，含流式、工具调用、视觉 · AI 可全程代办
 - [FluxGravity](https://taofai.com/resources/fluxgravity) — 免费档一次性 100 积分（领取后 30 天有效，不续发） · AI 可全程代办
 - [APIANT.ai](https://taofai.com/resources/apiant) — 每月 1,500 个任务（每月 1 日重置）；2 个连接；每月 5 次表单提交；运行历史保留 7 天… · 需绑卡
-- [YepAPI](https://taofai.com/resources/yepapi) — 注册送 $5 额度（免绑卡）；数据端点按次计费 $0.01 起，失败调用不扣费 · AI 可全程代办
+- [YepAPI](https://taofai.com/resources/yepapi) — 注册送 $5 额度（免绑卡）；数据端点按次计费 $0.01 起，失败调用不扣费
 - [AnyAPI](https://taofai.com/resources/anyapi) — 免费档每天 100,000 anyTokens（平台计费单位… · AI 可全程代办
-- [Google Pomelli](https://taofai.com/resources/pomelli) — 实验期免费使用，Google 口径为每账号可生成数百次图片与视频（未公布确切数字与周期） · AI 可全程代办
+- [Google Pomelli](https://taofai.com/resources/pomelli) — 实验期免费使用，Google 口径为每账号可生成数百次图片与视频（未公布确切数字与周期）
 - [OpenTau](https://taofai.com/resources/opentau) — 免费档每天 500 次请求；仅限 70B 以内小模型；单次输出上限 1,000 tokens，不支持流式 · AI 可全程代办
 - [Fikra](https://taofai.com/resources/fikra) — 免费账户 30 次/分钟、300 次/天（官方指南 429 说明）；充值后限额提高，最低充值 $5（官方博客） · 需绑卡
 - [Liquid d1.2 决策模型 API](https://taofai.com/resources/liquid-ai) — 每个新组织 $2 免费试用额度；d1.2 输入 $0.02/百万 Token… · 需绑卡
@@ -264,7 +266,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Inception Labs（Mercury）](https://taofai.com/resources/inception-labs) — 新账号一次性 100M（1 亿）免费 tokens，全模型共享；免费档限速 1,000 请求/分钟… · 需绑卡
 - [fal.ai](https://taofai.com/resources/fal-ai) — 个人新账号无官方标准赠送额度；Startup Program 审核通过 $1,000 起、最高 $5,000… · 需绑卡
 - [Manus](https://taofai.com/resources/manus) — 每日刷新 credits 300（登录领取，00:00 UTC 重置，不累积、仅当天有效）… · 需绑卡
-- [Free.ai 教育版](https://taofai.com/resources/free-ai-education) — 每月 50 万 Token（仅自托管模型）＋ Pro 请求档 API 密钥 10 万请求/月 · AI 可全程代办
+- [Free.ai 教育版](https://taofai.com/resources/free-ai-education) — 每月 50 万 Token（仅自托管模型）＋ Pro 请求档 API 密钥 10 万请求/月
 - [Hyperbrowser](https://taofai.com/resources/hyperbrowser) — 免费档含 5,000 credits（1,000 credits = $1 用量） · AI 可全程代办
 - [Antigravity CLI（Gemini CLI 官方替代）](https://taofai.com/resources/antigravity-cli) — 个人 Google 账号免费使用，额度每周刷新（官方只称「a meaningful quota」，不公布具体数字） · AI 可全程代办
 - [Crawl4AI Cloud](https://taofai.com/resources/crawl4ai-cloud) — 免费档每月 1,000 credits（1 credit = $0.001） · AI 可全程代办
@@ -291,11 +293,13 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [HasData](https://taofai.com/resources/hasdata) — 免费版每月 1000 credits，全工具可用；无代码抓取器最多 1000 行、抓取 API 最多 1000 次请求… · 需绑卡
 - [Queryra](https://taofai.com/resources/queryra) — 免费版：全功能 AI 语义搜索、每月 100 次搜索、目录每月同步一次、支持 50+ 语言 · 需绑卡
 - [Paradev](https://taofai.com/resources/paradev) — 免费版：1 名用户、本地工作区、无限项目（本地）、桌面应用＋CLI，$0 · AI 可全程代办
+- [Isaacus](https://taofai.com/resources/isaacus) — 新用户 100 美元免费额度，添加付款方式后立即到账 · 需绑卡
+- [JetBrains Junie Lite](https://taofai.com/resources/junie-lite) — Junie Lite 免费基础模型档，每个 JetBrains 账号包含 · AI 可全程代办
 
 ## 免费 AI 工具
 
 - [网易叭哥说](https://taofai.com/resources/bageshuo) — 终身免费、不限额度（官网原文口径） · AI 可全程代办
-- [Amazon Quick](https://taofai.com/resources/amazon-quick) — 免费档 $0/用户/月，限 1 位用户；索引存储 1 GB/用户（池化）；含 AI 聊天、自定义聊天智能体、深度研究、桌面应用… · AI 可全程代办
+- [Amazon Quick](https://taofai.com/resources/amazon-quick) — 免费档 $0/用户/月，限 1 位用户；索引存储 1 GB/用户（池化）；含 AI 聊天、自定义聊天智能体、深度研究、桌面应用… · 需邮箱验证码
 
 ## eSIM 与境外号码
 
@@ -304,15 +308,15 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [Ultra PayGo](https://taofai.com/resources/ultrapaygo) — $3/30 天（100 分钟＋100 短信＋100MB） · 付费
 - [Saily 美国号](https://taofai.com/resources/saily) — $6.99/年（优惠码 BAYASE，原价 $11.99；码的有效期官方未公布，下单前先确认可用），无限收短信 · 付费
 - [Keepgo 终身流量](https://taofai.com/resources/keepgo) — eSIM 免费，流量充值 $3 起、终身不过期；新用户另可免费领 100MB / 7 天试用线（须绑卡 $0 结账） · 需绑卡
-- [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天 · 付费
+- [美国号 / 香港号怎么选](https://taofai.com/resources/us-hk-number-guide) — Club SIM 保号 HK$15/年；Tello $5/月；Saily $6.99/年；Ultra PayGo $3/30 天
 - [NORMA connect 德国保号卡](https://taofai.com/resources/norma-connect) — 入门包黑五 2.99 欧（原价 9.95 欧），含 10 欧启动话费；Start 套餐 0 月租，德国境内通话/短信 9 欧分 · 需绑卡
 - [Xesim X7 蓝牙写卡器](https://taofai.com/resources/xesimx7) — 约 30 个 profiles，一次激活一个 · 付费
 - [VOXI 英国保号卡](https://taofai.com/resources/voxi) — SIM-only 30 天滚动套餐 £10 起（英国本地无限通话短信＋流量档位，£10–£35 多档）；退出套餐后转按量付费… · 需绑卡
 - [esim.gg 爱沙尼亚保号卡（乌龟卡）](https://taofai.com/resources/esim-gg) — 号码 €2.99 一次性，开通时预充少量余额（约 €1 起）；全球接收短信免费；中国流量 €4.7/GB… · 付费
 - [易博通 eSender 香港号](https://taofai.com/resources/esender) — 香港虚拟号 30 天 HK$18 / 90 天 HK$38 / 360 天 HK$98；接收短信免费… · 需绑卡
-- [Firsty](https://taofai.com/resources/firsty) — 看广告得流量：每条广告 20 MB，每天上限 360 MB，余额上限 240 MB，最高速率 1 Mbps · AI 可全程代办
+- [Firsty](https://taofai.com/resources/firsty) — 看广告得流量：每条广告 20 MB，每天上限 360 MB，余额上限 240 MB，最高速率 1 Mbps · 需短信验证码
 - [Roamless](https://taofai.com/resources/roamless) — 按量付费，约 $1.95/GB 起（随国家浮动） · 付费
-- [Eskimo](https://taofai.com/resources/eskimo) — 注册填码得 500 MB 全球流量（全球包覆盖 111 个国家和地区） · AI 可全程代办
+- [Eskimo](https://taofai.com/resources/eskimo) — 注册填码得 500 MB 全球流量（全球包覆盖 111 个国家和地区）
 - [Nomad eSIM 免费 1GB 试用](https://taofai.com/resources/nomad-esim) — 新用户免费 1GB 试用流量 · AI 可全程代办
 - [GigSky 免费试用 eSIM](https://taofai.com/resources/gigsky) — 免费试用 100MB（欧洲目的地 500MB） · AI 可全程代办
 - [SoSIM 香港储值卡](https://taofai.com/resources/sosim) — 开卡含 30 天 50GB 本地流量 + 1500 分钟通话 · 需实名
@@ -320,7 +324,7 @@ Free servers, free GPU, free AI API credits, tools and eSIM plans — every entr
 - [中国移动香港 MySIM](https://taofai.com/resources/cmhk-mysim) — 4G 储值卡，内地漫游接收短信免费 · 需实名
 - [Lucky SIM 三年计划](https://taofai.com/resources/lucky-sim) — 三年计划含本地数据 + 通话（版本以官网现行为准） · 需实名
 - [TextNow 免费美国号](https://taofai.com/resources/textnow) — 免费美/加号码，WiFi 下通话短信不限量 · 需短信验证码
-- [Google Voice 免费美国号](https://taofai.com/resources/google-voice) — 个人版免费美国号码，美加通话短信免费 · AI 可全程代办
+- [Google Voice 免费美国号](https://taofai.com/resources/google-voice) — 个人版免费美国号码，美加通话短信免费 · 需实名
 - [Talkatone 免费美国号](https://taofai.com/resources/talkatone) — 免费美/加号码，美加通话短信免费 · AI 可全程代办
 - [Fongo 免费加拿大号](https://taofai.com/resources/fongo) — 免费加拿大号码，加拿大境内通话免费、接收短信免费 · 需邮箱验证码
 - [2ndLine 免费美国号](https://taofai.com/resources/second-line) — 免费美国号码，美加通话短信免费 · 需邮箱验证码
